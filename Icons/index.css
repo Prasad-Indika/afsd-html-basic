@@ -1,0 +1,31 @@
+.iconhover:hover{
+    font-size:60px;
+    color:red;
+}
+
+.iconhover{
+    font-size:50px;
+  
+}
+
+.ab{
+    color: rgb(206, 199, 199);
+    font-size: 50px;
+}
+
+.ab:hover{
+    color: black;
+    
+}
+
+.bi{
+    font-size: 2rem;
+    color: rgb(121, 114, 114);
+    
+}
+
+.bi:hover{
+    font-size: 2.2rem;
+    color: rgb(20, 17, 170);
+}
+

@@ -1,0 +1,90 @@
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('Fonts/poppins.ttf') format('ttf'),;
+    /* You can include additional formats if needed */
+  }
+
+  
+
+.nav1 a{
+    color: gray;
+    font-size: 0.8em;
+    
+}
+
+.dplinks a{
+    color: black;
+    font-size: 1.1em;
+}
+
+
+
+.bi{
+    
+    font-size: 2rem;
+    color: rgb(189, 184, 184);
+    
+}
+
+.bi:hover{
+    font-size: 2.2rem;
+    color: rgb(20, 17, 170);
+}
+
+.iconButton{
+    height: 135px;
+    width: 200px;
+    margin: 20px;
+    box-shadow: 2px 2px 10px rgb(204, 202, 202);
+    border: 0;
+    border-radius: 5px;
+    background-color: white;
+    
+    transform: scale(1.05); 
+    transition: transform 0.5s ease;
+}
+
+.iconButton:hover{
+    background-color: rgb(9, 89, 200);
+    box-shadow: 2px 2px 10px rgb(204, 202, 202);
+    border: 0;
+    border-radius: 5px;
+
+    transform: scale(1);
+    
+}
+
+.btnLoads{
+   
+    
+    height: 425px;
+    display: flex;
+    background-color: rgb(247, 248, 248);
+    padding-bottom: 20px;
+    
+   
+    
+}
+
+.cont1{
+   
+   
+    width: 60%;
+   
+}
+
+.cont2{
+   
+    
+   
+    width: 40%;
+   
+}
+
+
+.roundCorner{
+    border-radius: 10px;
+    margin: 8px;
+    border-style:none ;
+}
